@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-password/static/css/main.45313142.css",
+    "main.js": "/test-password/static/js/main.3d9f1bea.js",
+    "index.html": "/test-password/index.html",
+    "main.45313142.css.map": "/test-password/static/css/main.45313142.css.map",
+    "main.3d9f1bea.js.map": "/test-password/static/js/main.3d9f1bea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45313142.css",
+    "static/js/main.3d9f1bea.js"
+  ]
+}
